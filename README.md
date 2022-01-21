@@ -1,2 +1,2 @@
-### Hi, I'm Vincent!  
+### Hi, I'm Vincent! [(he/they)](https://pronoun.is/he?or=they)
 I currently study computer science and mathematics at Northeastern University. I lead workshops that aim to make the tech industry accessible and inviting to everyone. My personal (and currently private) work centers around finding exciting uses for augmented reality and bringing them to life. Some web stuff I have worked on is open sourced here. Thanks for checking out my projects!
